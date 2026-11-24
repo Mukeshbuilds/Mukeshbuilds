@@ -58,22 +58,7 @@ Touchless computer control via real-time hand-gesture recognition. Custom gestur
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mukeshbuilds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukeshbuilds&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukeshbuilds&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukeshbuilds&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
